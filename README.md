@@ -96,6 +96,7 @@ EfficientNetB0 achieved higher test-set performance than the baseline CNN in thi
 
 ## Research paper
 
+This is the editable link for overleaf https://www.overleaf.com/project/6acd4f79b7eb0c1a908009ac/share#fdc115ba2e11c20045a9dfe8ac2c8b2b95a85da41cd2938e. 
 See [`Visible_Food_Surface_Anomaly_Classification (2).pdf`](Visible_Food_Surface_Anomaly_Classification%20%282%29.pdf) for the full methodology, evaluation, and references.
 
 ## Author
